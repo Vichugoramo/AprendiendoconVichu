@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+
+.boxpink{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    position: relative;
+}
+
+.boxpurple{
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+}
